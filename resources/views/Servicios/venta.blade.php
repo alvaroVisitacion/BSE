@@ -211,12 +211,19 @@
                                         <span class="text-danger font-size"></span>
                                     </div>
                                 </div>
-                                <div class="col-md-10">
+                                <div class="col-md-8">
                                     <div class="form-group">
                                         <label for="nombre">Archivo</label>
 
                                         <input class="form-control" placeholder="Archivo" type="file"  value=""  name="archivo">
                                         <span class="text-danger font-size"></span>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <br>
+
+                                        <button class="btn btn-success">Enviar</button>
                                     </div>
                                 </div>
                             </div>
